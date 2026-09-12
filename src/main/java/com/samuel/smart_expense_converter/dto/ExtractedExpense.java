@@ -1,4 +1,4 @@
-package com.samuel.smart_expense_converter;
+package com.samuel.smart_expense_converter.dto;
 
 import java.math.BigDecimal;
 
